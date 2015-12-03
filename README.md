@@ -1,5 +1,7 @@
 # RelatedWordsBot
 
+https://twitter.com/relatedwordsbot
+
 ReverseImageBot is a Twitter bot that creates generative art content utilizing Bing Image Search and a dictionary of related words.
 
 RelatedWordsBot works as follows:
